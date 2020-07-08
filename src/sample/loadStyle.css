@@ -1,0 +1,6 @@
+.root{
+     -fx-background-image: url("/sprites/load.png");
+     -fx-background-color: black;
+     -fx-background-repeat: no-repeat;
+     -fx-background-size: 1450px 800px;
+ }

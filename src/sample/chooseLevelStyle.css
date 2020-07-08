@@ -1,0 +1,115 @@
+.root{
+     -fx-background-image: url("/sprites/chooseLevelBackground.png");
+     -fx-background-color: black;
+     -fx-background-repeat: no-repeat;
+     -fx-background-position: center;
+     -fx-background-size: 1450px 800px;
+ }
+.lvl1-button{
+     -fx-background-image: url("/sprites/lvl1.png");
+     -fx-background-size: 136px 195px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+.lvl1-button:hover {
+      -fx-background-image: url("/sprites/lvl1Hovered.png");
+      -fx-background-size: 136px 195px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+.lvl1-button:pressed {
+       -fx-background-image: url("/sprites/lvl1.png");
+       -fx-background-size: 136px 195px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+}
+.lvl2-button{
+     -fx-background-image: url("/sprites/lvl2.png");
+     -fx-background-size: 136px 195px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+.lvl2-button:hover {
+      -fx-background-image: url("/sprites/lvl2Hovered.png");
+      -fx-background-size: 136px 195px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+.lvl2-button:pressed {
+       -fx-background-image: url("/sprites/lvl2.png");
+       -fx-background-size: 136px 195px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+}
+.lvl3-button{
+     -fx-background-image: url("/sprites/lvl3.png");
+     -fx-background-size: 136px 195px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+.lvl3-button:hover {
+      -fx-background-image: url("/sprites/lvl3Hovered.png");
+      -fx-background-size: 136px 195px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+.lvl3-button:pressed {
+       -fx-background-image: url("/sprites/lvl3.png");
+       -fx-background-size: 136px 195px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+}
+.lvl4-button{
+     -fx-background-image: url("/sprites/lvl4.png");
+     -fx-background-size: 136px 195px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+.lvl4-button:hover {
+      -fx-background-image: url("/sprites/lvl4Hovered.png");
+      -fx-background-size: 136px 195px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+.lvl4-button:pressed {
+       -fx-background-image: url("/sprites/lvl4.png");
+       -fx-background-size: 136px 195px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+}
+.lvl5-button{
+     -fx-background-image: url("/sprites/lvl5.png");
+     -fx-background-size: 136px 195px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+.lvl5-button:hover {
+      -fx-background-image: url("/sprites/lvl5Hovered.png");
+      -fx-background-size: 136px 195px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+.lvl5-button:pressed {
+       -fx-background-image: url("/sprites/lvl5.png");
+       -fx-background-size: 136px 195px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+}
+.cancel-button{
+     -fx-background-image: url("/sprites/cancel.png");
+     -fx-background-size: 50px 50px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+.cancel-button:hover {
+       -fx-background-image: url("/sprites/cancelHovered.png");
+       -fx-background-size: 50px 50px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+   }
+.cancel-button:pressed {
+        -fx-background-image: url("/sprites/cancelPressed.png");
+        -fx-background-size: 50px 50px;
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+ }

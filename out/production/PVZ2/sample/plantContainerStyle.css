@@ -1,0 +1,136 @@
+.plant-container{
+     -fx-background-image: url("/sprites/plantContainer.png");
+     -fx-background-size: 653px 111px;
+}
+.peaShooter-seedPacket-button{
+    -fx-background-image: url("/sprites/peaShooterSeedPacket.png");
+    -fx-background-size: 68px 96px;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+ }
+.peaShooter-seedPacket-button:hover {
+     -fx-background-image: url("/sprites/peaShooterSeedPacketHovered.png");
+     -fx-background-size: 68px 96px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+.peaShooter-seedPacket-button:pressed {
+      -fx-background-image: url("/sprites/peaShooterSeedPacket.png");
+      -fx-background-size: 68px 96px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+ }
+ .sunFlower-seedPacket-button{
+     -fx-background-image: url("/sprites/sunFlowerSeedPacket.png");
+     -fx-background-size: 68px 96px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+ .sunFlower-seedPacket-button:hover {
+      -fx-background-image: url("/sprites/sunFlowerSeedPacketHovered.png");
+      -fx-background-size: 68px 96px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+ .sunFlower-seedPacket-button:pressed {
+       -fx-background-image: url("/sprites/sunFlowerSeedPacket.png");
+       -fx-background-size: 68px 96px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+  }
+.cherryBomb-seedPacket-button{
+      -fx-background-image: url("/sprites/CherryBombSeedPacket.png");
+      -fx-background-size: 68px 96px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+   }
+.cherryBomb-seedPacket-button:hover {
+       -fx-background-image: url("/sprites/CherryBombSeedPacketHovered.png");
+       -fx-background-size: 68px 96px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+   }
+.cherryBomb-seedPacket-button:pressed {
+        -fx-background-image: url("/sprites/CherryBombSeedPacket.png");
+        -fx-background-size: 68px 96px;
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+}
+.wallNut-seedPacket-button{
+      -fx-background-image: url("/sprites/wallNutSeedPacket.png");
+      -fx-background-size: 68px 96px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+   }
+.wallNut-seedPacket-button:hover {
+       -fx-background-image: url("/sprites/wallNutSeedPacketHovered.png");
+       -fx-background-size: 68px 96px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+   }
+.wallNut-seedPacket-button:pressed {
+        -fx-background-image: url("/sprites/wallNutSeedPacket.png");
+        -fx-background-size: 68px 96px;
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+}
+.potatoMine-seedPacket-button{
+      -fx-background-image: url("/sprites/PotatoMineSeedPacket.png");
+      -fx-background-size: 68px 96px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+   }
+.potatoMine-seedPacket-button:hover {
+       -fx-background-image: url("/sprites/PotatoMineSeedPacketHovered.png");
+       -fx-background-size: 68px 96px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+   }
+.potatoMine-seedPacket-button:pressed {
+        -fx-background-image: url("/sprites/PotatoMineSeedPacket.png");
+        -fx-background-size: 68px 96px;
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+}
+.shovel-button{
+      -fx-background-image: url("/sprites/ShovelButton.jpg");
+      -fx-background-size: 96px 96px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+   }
+.shovel-button:hover {
+       -fx-background-image: url("/sprites/ShovelButtonHovered.jpg");
+       -fx-background-size: 96px 96px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+   }
+.shovel-button:pressed {
+        -fx-background-image: url("/sprites/ShovelButton.jpg");
+        -fx-background-size: 96px 96px;
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+}
+.pauseMenu-button{
+    -fx-background-image: url("/sprites/pauseMenu.png");
+    -fx-background-size: 166px 52px;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+ }
+.pauseMenu-button:hover {
+     -fx-background-image: url("/sprites/pauseMenuHovered.png");
+     -fx-background-size: 166px 52px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+.pauseMenu-button:pressed {
+      -fx-background-image: url("/sprites/pauseMenuPressed.png");
+      -fx-background-size: 166px 52px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+ }
+.sun-text{
+    -fx-background-color: transparent;
+    -fx-font-size: 19px;
+    -fx-font-family: "Comic Sans MS", cursive, sans-serif;
+    -fx-font-weight: bold;
+}

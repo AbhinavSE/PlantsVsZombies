@@ -1,0 +1,50 @@
+.root{
+     -fx-background-image: url("/sprites/user-dialog-box.png");
+     -fx-background-color: black;
+     -fx-background-repeat: no-repeat;
+     -fx-background-position: center;
+     -fx-background-size: 488px 318px;
+ }
+.ok-button{
+     -fx-background-image: url("/sprites/ok.png");
+     -fx-background-size: 292px 63px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+.ok-button:hover {
+       -fx-background-image: url("/sprites/okHovered.png");
+       -fx-background-size: 292px 63px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+   }
+.ok-button:pressed {
+        -fx-background-image: url("/sprites/okPressed.png");
+        -fx-background-size: 292px 63px;
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+ }
+.cancel-button{
+     -fx-background-image: url("/sprites/cancel.png");
+     -fx-background-size: 50px 50px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+.cancel-button:hover {
+       -fx-background-image: url("/sprites/cancelHovered.png");
+       -fx-background-size: 50px 50px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+   }
+.cancel-button:pressed {
+        -fx-background-image: url("/sprites/cancelPressed.png");
+        -fx-background-size: 50px 50px;
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+ }
+   .user-text{
+       -fx-background-color: transparent;
+       -fx-text-fill: #000000;
+       -fx-font-size: 24px;
+       -fx-font-family: "Comic Sans MS", cursive, sans-serif;
+       -fx-font-weight: bold;
+   }

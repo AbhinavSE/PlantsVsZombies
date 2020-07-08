@@ -1,0 +1,72 @@
+.backToGame-button{
+    -fx-background-image: url("/sprites/backToGame.png");
+    -fx-background-size: 357px 84px;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+ }
+.backToGame-button:hover {
+     -fx-background-image: url("/sprites/backToGameHovered.png");
+     -fx-background-size: 357px 84px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+.backToGame-button:pressed {
+      -fx-background-image: url("/sprites/backToGamePressed.png");
+      -fx-background-size: 357px 84px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+ }
+.saveGame-button{
+    -fx-background-image: url("/sprites/saveGameButton.png");
+    -fx-background-size: 218px 42px;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+ }
+.saveGame-button:hover {
+     -fx-background-image: url("/sprites/saveGameButtonHovered.png");
+     -fx-background-size: 218px 42px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+.saveGame-button:pressed {
+      -fx-background-image: url("/sprites/saveGameButtonPressed.png");
+      -fx-background-size: 218px 42px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+ }
+.restartLevel-button{
+    -fx-background-image: url("/sprites/restartLevelButton.png");
+    -fx-background-size: 219px 40px;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+ }
+.restartLevel-button:hover {
+     -fx-background-image: url("/sprites/restartLevelButtonHovered.png");
+     -fx-background-size: 219px 40px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+.restartLevel-button:pressed {
+      -fx-background-image: url("/sprites/restartLevelButtonPressed.png");
+      -fx-background-size: 219px 40px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+ }
+.mainMenu-button{
+    -fx-background-image: url("/sprites/mainMenuButton.png");
+    -fx-background-size: 219px 40px;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+ }
+.mainMenu-button:hover {
+     -fx-background-image: url("/sprites/mainMenuButtonHovered.png");
+     -fx-background-size: 219px 40px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+.mainMenu-button:pressed {
+      -fx-background-image: url("/sprites/mainMenuButtonPressed.png");
+      -fx-background-size: 219px 40px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+ }

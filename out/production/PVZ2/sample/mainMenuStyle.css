@@ -1,0 +1,196 @@
+.root{
+     -fx-background-image: url("/sprites/bg.png");
+     -fx-background-color: black;
+     -fx-background-repeat: no-repeat;
+     -fx-background-size: 1450px 800px;
+ }
+.adventure-button{
+    -fx-background-image: url("/sprites/button.png");
+    -fx-background-size: 623px 158px;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+ }
+.adventure-button:hover {
+     -fx-background-image: url("/sprites/buttonHovered.png");
+     -fx-background-size: 623px 158px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+.adventure-button:pressed {
+      -fx-background-image: url("/sprites/buttonPressed.png");
+      -fx-background-size: 623px 158px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+ }
+.chooseLevel-button{
+    -fx-background-image: url("/sprites/chooseLevel.png");
+    -fx-background-size: 176px 48px;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+ }
+.chooseLevel-button:hover {
+     -fx-background-image: url("/sprites/chooseLevelHovered.png");
+     -fx-background-size: 176px 48px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+.chooseLevel-button:pressed {
+      -fx-background-image: url("/sprites/chooseLevelPressed.png");
+      -fx-background-size: 176px 48px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+ }
+.choose-user-button{
+    -fx-background-image: url("/sprites/chooseUser.png");
+    -fx-background-size: 518px 68px;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+ }
+.choose-user-button:hover {
+     -fx-background-image: url("/sprites/chooseUserHovered.png");
+     -fx-background-size: 518px 68px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+.choose-user-button:pressed {
+      -fx-background-image: url("/sprites/chooseUserPressed.png");
+      -fx-background-size: 518px 68px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+ }
+ .minigames-button{
+     -fx-background-image: url("/sprites/minigames.png");
+     -fx-background-size: 565px 172px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+ .minigames-button:hover {
+      -fx-background-image: url("/sprites/minigamesHovered.png");
+      -fx-background-size: 565px 172px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+ .minigames-button:pressed {
+       -fx-background-image: url("/sprites/minigamesPressed.png");
+       -fx-background-size: 565px 172px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+  }
+ .puzzle-button{
+     -fx-background-image: url("/sprites/puzzle.png");
+     -fx-background-size: 512px 158px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+ .puzzle-button:hover {
+      -fx-background-image: url("/sprites/puzzleHovered.png");
+      -fx-background-size: 512px 158px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+ .puzzle-button:pressed {
+       -fx-background-image: url("/sprites/puzzlePressed.png");
+       -fx-background-size: 512px 158px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+  }
+ .survival-button{
+     -fx-background-image: url("/sprites/survival.png");
+     -fx-background-size: 476px 158px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+  }
+ .survival-button:hover {
+      -fx-background-image: url("/sprites/survivalHovered.png");
+      -fx-background-size: 476px 158px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+ .survival-button:pressed {
+       -fx-background-image: url("/sprites/survivalPressed.png");
+       -fx-background-size: 476px 158px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+  }
+.quit-button{
+     -fx-background-image: url("/sprites/quit.png");
+     -fx-background-size: 150px 143px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+.quit-button:hover {
+      -fx-background-image: url("/sprites/quitHovered.png");
+      -fx-background-size: 150px 143px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+.quit-button:pressed {
+       -fx-background-image: url("/sprites/quitPressed.png");
+       -fx-background-size: 150px 143px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+  }
+.help-button{
+      -fx-background-image: url("/sprites/help.png");
+      -fx-background-size: 138px 190px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+   }
+.help-button:hover {
+       -fx-background-image: url("/sprites/helpHovered.png");
+       -fx-background-size: 138px 190px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+ }
+.help-button:pressed {
+        -fx-background-image: url("/sprites/helpPressed.png");
+        -fx-background-size: 138px 190px;
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+ }
+.options-button{
+      -fx-background-image: url("/sprites/options.png");
+      -fx-background-size: 180px 144px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+   }
+.options-button:hover {
+       -fx-background-image: url("/sprites/optionsHovered.png");
+       -fx-background-size: 180px 144px;
+       -fx-background-color: transparent;
+       -fx-border-color: transparent;
+}
+.options-button:pressed {
+        -fx-background-image: url("/sprites/optionsPressed.png");
+        -fx-background-size: 180px 144px;
+        -fx-background-color: transparent;
+        -fx-border-color: transparent;
+}
+.almanac-button{
+     -fx-background-image: url("/sprites/almanacButton.png");
+     -fx-background-size: 173px 127px;
+     -fx-background-color: transparent;
+     -fx-border-color: transparent;
+ }
+ .almanac-button:hover{
+      -fx-background-image: url("/sprites/almanacButtonHovered.png");
+      -fx-background-size: 173px 127px;
+      -fx-background-color: transparent;
+      -fx-border-color: transparent;
+  }
+.user-text{
+    -fx-background-color: transparent;
+    -fx-text-fill: #dccf9f;
+    -fx-font-size: 19px;
+    -fx-font-family: "Comic Sans MS", cursive, sans-serif;
+    -fx-font-weight: bold;
+}
+.level-text{
+    -fx-background-color: transparent;
+    -fx-text-fill: #fcfdfb;
+    -fx-font-size: 21px;
+    -fx-font-family: "Courier New", Courier, monospace;
+    -fx-font-weight: bolder;
+}
+
+
